@@ -6,7 +6,7 @@ Le capteur de présence à ultrason détectera la distance jusqu'à 64cm du capt
 En association avec un logiciel de port MIDI virtuel comme <a href="https://www.tobias-erichsen.de/software/loopmidi.html">loopMIDI</a>, il est possible de connecter le Magic Knob à n'importe quel STAN (DAW) ou logiciel contrôlable via Contrôleur MIDI.
 
 <img src="schema-montage.png">
-<img src="magic-knob.jng">
-<img src="magic-knob-connected.jng">
+<img src="magic-knob.jpg.png">
+<img src="magic-knob-connected.jpg">
 
 Projet mené à bien en une semaine en collaboration avec <a href="https://github.com/GabrielLCSC">Gabriel Dautreppe</a> & <a href="https://github.com/albanledev">Alban de Braquilanges</a>
